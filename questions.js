@@ -1,3 +1,5 @@
+//PLS CLARIFY HOW COME THE FIRST QUESTION SHOWS UP DESPITE NO "data" EVENT BEING PASSED. PERHAPS THERE IS SOMETHING ABOUT THE DATA EVENT YOU DO NOT UNDERSTAND
+
 var questions = [
   "What is your name?",
   "What would you rather be doing?",
